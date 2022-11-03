@@ -1,0 +1,15 @@
+{
+  "name": "handson-assessment-4",
+  "version": "1.0.0",
+  "description": "Node Handson Assessment 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "shashi bhushan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
